@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "base\\__init__.py": true,
+    ".pytest_cache": true,
+    "ele\\supply\\__init__.py": true,
+    "func\\__init__.py": true
+  }
+}
